@@ -1,3 +1,6 @@
+// Note: I don't think it belongs to Linked List
+// Maybe I don't think of the Linked List solution
+
 class Solution {
 public:
 	string FirstNonRepeating(string A){
